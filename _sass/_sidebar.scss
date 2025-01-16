@@ -47,7 +47,7 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     line-height: 1.5;
   }
 
@@ -71,6 +71,12 @@
     width: $right-sidebar-width;
   }
 }
+
+/* Ensure the navigation tabs are listed vertically */
+// .greedy-nav .visible-links {
+//   display: flex;
+//   flex-direction: column;
+// }
 
 /*
    Author profile and links

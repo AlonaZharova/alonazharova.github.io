@@ -203,7 +203,8 @@
   }
 
   .visible-links {
-    display: table;
+    display: flex;
+    flex-direction: column;
 
     li {
       display: table-cell;
@@ -211,6 +212,7 @@
 
       &:first-child {
         font-weight: bold;
+        font-size: $type-size-4;
         text-wrap: wrap;
 
         a {
