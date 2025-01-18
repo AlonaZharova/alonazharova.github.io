@@ -19,7 +19,7 @@ $(document).ready(function(){
       didResize = false;
       bumpIt();
     }
-  }, 250);
+  }, 250)
   // FitVids init
   $("#main").fitVids();
 
@@ -27,7 +27,7 @@ $(document).ready(function(){
   $(".sticky").Stickyfill();
 
   var stickySideBar = function(){
-    const MINIMUM_WIDTH = 1024;
+    const MINIMUM_WIDTH = 0;
 
     // Adjust if the follow button is shown based upon screen size
     var width = $(window).width();
@@ -97,3 +97,16 @@ $(document).ready(function(){
   });
 
 });
+
+// document.addEventListener("DOMContentLoaded", function() {
+//   const followButton = document.getElementById("follow-button");
+//   const contactDetails = document.getElementById("contact-details");
+
+//   followButton.addEventListener("click", function() {
+//     if (contactDetails.style.display === "none" || contactDetails.style.display === "") {
+//       contactDetails.style.display = "block";
+//     } else {
+//       contactDetails.style.display = "none";
+//     }
+//   });
+// });
