@@ -7,44 +7,49 @@ redirect_from:
   - /about.html
 ---
 
-# Professional Experience
+## Professional Experience
 
-### Since 04/2018  
-**Postdoctoral Researcher (wissenschaftliche Mitarbeiterin)**  
-Chair of Information Systems, School of Business and Economics, HU  
-- **Career breaks**:  
-  - 10/2018 – 02/2020: Maternity leave (1st child)  
-  - 03/2020 – 02/2021: Child caregiving due to COVID period  
-  - 08/2021 – 12/2022: Maternity leave (2nd child)
+**since 04/2018**  
+**Postdoctoral Researcher (*wissenschaftliche Mitarbeiterin*)**, Chair of Information Systems, School of Business and Economics, HU  
+Career breaks:  
+- 10/2018 – 02/2020: Maternity leave, 1st child  
+- 03/2020 – 02/2021: Child caregiving due to COVID period  
+- 08/2021 – 12/2022: Maternity leave, 2nd child  
 
-### 06/2014 – 03/2018  
-**Research Associate (wissenschaftliche Mitarbeiterin)**  
-Ladislaus von Bortkiewicz Chair of Statistics, School of Business and Economics, HU  
+---
 
-### 01/2017 – 03/2018  
-**Managing Director**  
-International Research Training Group 1792 "High Dimensional Nonstationary Time Series", HU  
+**06/2014 – 03/2018**  
+**Research Associate (*wissenschaftliche Mitarbeiterin*)**, Ladislaus von Bortkiewicz Chair of Statistics, School of Business and Economics, HU  
+
+---
+
+**01/2017 – 03/2018**  
+**Managing Director**, International Research Training Group 1792 "High Dimensional Nonstationary Time Series", HU  
 - Finance management (€0.5M p.a.)  
 - Controlling, HR management (20 people), team management (4 people)  
 - Elaboration of funding proposals  
 
-### 04/2014 – 12/2016  
-**Managing Director**  
-Collaborative Research Center 649 "Economic Risk", HU  
-- Finance management (€2M p.a.), controlling, HR management (100 people)  
+---
+
+**04/2014 – 12/2016**  
+**Managing Director**, Collaborative Research Center 649 "Economic Risk", HU  
+- Finance management (€2M p.a.)  
+- Controlling, HR management (100 people)  
 - Team management (5 people), elaboration of funding proposals  
 - Business process optimization  
 - Introduction of a forecast-based financial management  
   - **Result**: Efficiency of allocated third-party funds increased from 83% to 99%  
 
-### 10/2011 – 09/2013  
-**Research Associate (wissenschaftliche Mitarbeiterin)**  
-Chair of Management and Mathematical Modelling of Business Processes, School of Economics and Business Administration, Odessa I.I. Mechnikov National University, Ukraine  
-- Research in "Agent-based modelling in IT project management"  
+---
+
+**10/2011 – 09/2013**  
+**Research Associate (*wissenschaftliche Mitarbeiterin*)**, Chair of Management and Mathematical Modelling of Business Processes, School of Economics and Business Administration, Odessa I.I. Mechnikov National University, Ukraine  
+- Research in "Agent-based modelling in IT project management"
+
 
 ---
 
-# Academic Education
+## Academic Education
 
 | **Period**         | **Degree**                                                                                   | **Institution**                                                                                                   | **Details**                                                                                                                                                 |
 |---------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,7 +60,7 @@ Chair of Management and Mathematical Modelling of Business Processes, School of 
 
 ---
 
-# International Research Stays
+## International Research Stays
 
 ### Completed
 - **10/2023**: Australian National University (ANU), College of Arts and Social Science, Australia  
